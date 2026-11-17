@@ -10,16 +10,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Basil 1");
-            Console.WriteLine("Basil 2");
-            Console.WriteLine("Basil 3");
-            Console.WriteLine("Basil 4");
-            Console.WriteLine("Basil 5");
-            Console.WriteLine("Basil 6");
-            Console.WriteLine("Basil 7");
-            Console.WriteLine("Basil 8");
-            Console.WriteLine("Basil 9");
-            Console.WriteLine("Basil 10");
+            Console.WriteLine("KOKO 1");
+            Console.WriteLine("KOKO 2");
+            Console.WriteLine("KOKO 3");
+            Console.WriteLine("KOKO 4");
+            Console.WriteLine("KOKO 5");
+            Console.WriteLine("KOKO 6");
+            Console.WriteLine("KOKO 7");
+            Console.WriteLine("KOKO 8");
+            Console.WriteLine("KOKO 9");
+            Console.WriteLine("KOKO 10");
 
         }
     }
