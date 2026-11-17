@@ -12,24 +12,24 @@ namespace ConsoleApp1
         {
             Console.WriteLine("KOKO 1");
             Console.WriteLine("KOKO 2");
-            Console.WriteLine("KOKO 3");
+            Console.WriteLine("BBBBBBBBBBBBBBBBBBBBBBBBBB");
             Console.WriteLine("KOKO 4");
             Console.WriteLine("KOKO 5");
-            Console.WriteLine("KOKO 6");
-            Console.WriteLine("KOKO 7");
+            Console.WriteLine("BBBBBBBBBBBBBBBBBBBBBBBB");
+            Console.WriteLine("BBBBBBBBBBBBBBBBBBBBBBBBBBb");
             Console.WriteLine("KOKO 8");
             Console.WriteLine("KOKO 9");
             Console.WriteLine("KOKO 10");
+            Console.WriteLine("BBBBBBBBBBBBBBBBBBBBBBBBBB");
             Console.WriteLine("Update 1");
+            Console.WriteLine("BBBBBBBBBBBBBBBBBBBBBBBBB");
+            Console.WriteLine("BBBBBBBBBBBBBBBBBBBBBBBBB");
+            Console.WriteLine("BBBBBBBBBBBBBBBBBBBBBBBBB");
             Console.WriteLine("Update 1");
+            Console.WriteLine("BBBBBBBBBBBBBB");
             Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
+            Console.WriteLine("BBBBBBBBBBBBBBBBBBBBBBBBBB");
+            Console.WriteLine("BBBBBBBBBBBBBBBBBBBBBBBBBB");
 
         }
     }
