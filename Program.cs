@@ -20,6 +20,16 @@ namespace ConsoleApp1
             Console.WriteLine("KOKO 8");
             Console.WriteLine("KOKO 9");
             Console.WriteLine("KOKO 10");
+            Console.WriteLine("Update 1");
+            Console.WriteLine("Update 1");
+            Console.WriteLine("Update 1");
+            Console.WriteLine("Update 1");
+            Console.WriteLine("Update 1");
+            Console.WriteLine("Update 1");
+            Console.WriteLine("Update 1");
+            Console.WriteLine("Update 1");
+            Console.WriteLine("Update 1");
+            Console.WriteLine("Update 1");
 
         }
     }
