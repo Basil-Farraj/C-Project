@@ -11,24 +11,24 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("KOKO 1");
-            Console.WriteLine("KOKO 2");
-            Console.WriteLine("KOKO 3");
-            Console.WriteLine("KOKO 4");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAaaa");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAaaa");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAaaa");
             Console.WriteLine("KOKO 5");
             Console.WriteLine("KOKO 6");
             Console.WriteLine("KOKO 7");
             Console.WriteLine("KOKO 8");
-            Console.WriteLine("KOKO 9");
-            Console.WriteLine("KOKO 10");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAA);
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
             Console.WriteLine("Update 1");
             Console.WriteLine("Update 1");
             Console.WriteLine("Update 1");
             Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
-            Console.WriteLine("Update 1");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
             Console.WriteLine("Update 1");
 
         }
